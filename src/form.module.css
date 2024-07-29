@@ -53,10 +53,10 @@ h2 {
 }
 
 .registration-button:focus:enabled {
-	background-color: #ff0000;
+	background-color: #0056b3;
 }
 .registration-button:hover:enabled {
-	background-color: #0056b3;
+	background-color: #044181;
 }
 
 .error {
